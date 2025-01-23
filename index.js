@@ -3,7 +3,7 @@ import morgan from "morgan";
 import homeRoutes from "./routes/home.js"
 
 const app = express()
-const PORT = 4000;
+const PORT = 3000;
 
  
 app.use(express.json())
